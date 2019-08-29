@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Raedy Ping
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Northwestern University
+  url: "https://uttallabs.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in the process of deep conceptual learning. I study individuals, small groups, and machines. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Data Science
+- Psychology
+- Learning Sciences
 
 education:
   courses:
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Raedy Ping is a scientist who wants to know how the process of learning works--how do we come to have true understanding of our world, especially things we cannot directly see? A cognitive/developmental psychologist with learning scientist tendencies, Raedy has studied human learning from infancy through adulthood. Her newest work is in cross-domain STEM learning and scientific reasoning skills. She collaborates with domain experts (e.g., geoscientists) and education practitioners (e.g., kindergarten teachers) to design research that has practical applications, and also advances scientific theory. 
