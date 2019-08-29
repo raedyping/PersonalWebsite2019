@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   date_end = "2017-06-01"
   description = """
 
-    * Carried a 4-3 load of 200-level and 300-level courses for undergraduates:
+  * Carried a 4-3 load of 200-level and 300-level courses for undergraduates:
       * Developmental Psychology
       * Cognitive Psychology
       * Lab in Developmental Psychology
