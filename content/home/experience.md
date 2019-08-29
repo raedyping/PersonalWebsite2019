@@ -27,10 +27,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-   * Collaborating with psychologists, learning scientists, neuroscientists, teachers, and domain experts on a multi-site experiment about neural markers of conceptual change in geoscience students # link to grant page tk
-   * Inventing methodologies to measure advanced scientific reasoning skills # link to project page about this
-  * Creating reliable systems that extract meaning from speech and gesture about spatial thinking # link to project page
-  * Text mining and analysis of corpora regarding spatial problem solving strategies # link to project page
+   * Collaborating with psychologists, neuroscientists, teachers, and domain experts on a quasi-experiment determining neural markers of conceptual change in geoscience students
+   * Inventing methodologies to measure advanced scientific reasoning skills
+  * Text mining and analysis of interview corpora about spatial problem solving strategies
   """
 
 [[experience]]
