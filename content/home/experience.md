@@ -42,14 +42,9 @@ date_format = "Jan 2006"
   description = """
 
 
-  * Carried a 4-3 load of 200-level and 300-level courses for undergraduates:
-      * Developmental Psychology
-      * Cognitive Psychology
-      * Lab in Developmental Psychology
-      * Behavioral Research Methods
-      * Statistics for Psychology Majors
-    * Planned and executed actual psych research with my students, live in kindergarten classes and virtually through mTurk
-    * Taught undergraduates how to use R for exploratory data analysis, modelling data and creating plots
+  * Carried a 4-3 load of 200-level and 300-level courses for undergraduates: Developmental Psychology, Cognitive Psychology, Lab in Developmental Psychology, Behavioral Research Methods, and Statistics for Psychology Majors
+  * Planned and executed actual psych research with my students, live in kindergarten classes and virtually through mTurk
+  * Taught undergraduates how to use R for exploratory data analysis, modelling data and creating plots
   
   """
 
