@@ -18,27 +18,42 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Postdoctoral Researcher"
+  company = "Northwestern Univ School of Education and Social Policy"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Evanston, IL"
+  date_start = "2017-07-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+   * Collaborating with psychologists, learning scientists, neuroscientists, teachers, and domain experts on a multi-site experiment about neural markers of conceptual change in geoscience students # link to grant page tk
+   * Inventing methodologies to measure advanced scientific reasoning skills # link to project page about this
+  * Creating reliable systems that extract meaning from speech and gesture about spatial thinking # link to project page
+  * Text mining and analysis of corpora regarding spatial problem solving strategies # link to project page
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Full Time Instructor"
+  company = "Loyola University Chicago"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Chicago"
+  date_start = "2014-08-01"
+  date_end = "2017-06-01"
+  description = """
+  
+  
+  """
 
+[[experience]]
+  title = "Director of Education Research"
+  company = "Spatial Intelligence and Learning Center"
+  company_url = ""
+  location = "Chicago"
+  date_start = "2010-09-01"
+  date_end = "2014-07-01"
+  description = """
+  
+  
+  """
 +++
