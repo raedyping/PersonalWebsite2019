@@ -34,7 +34,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Full Time Instructor"
-  company = "Loyola University Chicago"
+  company = "Loyola University Chicago Department of Psychology"
   company_url = ""
   location = "Chicago"
   date_start = "2014-08-01"
