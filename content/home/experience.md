@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   
+  
    * Collaborating with psychologists, neuroscientists, teachers, and domain experts on a quasi-experiment determining neural markers of conceptual change in geoscience students
    * Inventing methodologies to measure advanced scientific reasoning skills
   * Text mining and analysis of interview corpora about spatial problem solving strategies
@@ -39,6 +40,7 @@ date_format = "Jan 2006"
   date_start = "2014-08-01"
   date_end = "2017-06-01"
   description = """
+
 
   * Carried a 4-3 load of 200-level and 300-level courses for undergraduates:
       * Developmental Psychology
@@ -85,6 +87,7 @@ date_format = "Jan 2006"
   date_start = "2009-09-01"
   date_end = "2010-09-01"
   description = """
+  
   
   * Collaborated with textbook writers and geometricians to author a white paper about PreK to 6th grade geometry curricula
   * Conducted a lecture series about bridging the gap between the lab and the classroom 
