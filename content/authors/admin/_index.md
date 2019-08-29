@@ -67,4 +67,6 @@ email: ""
 #- Visitors
 ---
 
-Raedy Ping is a scientist who wants to know how the process of learning works--how do we come to have true understanding of our world, especially things we cannot directly see? A psychologist with learning scientist tendencies, Raedy has studied human learning from infancy through adulthood. Her newest work is in cross-domain STEM learning and scientific reasoning skills. She collaborates with domain experts (e.g., geoscientists) and education practitioners (e.g., kindergarten teachers) to design research that has practical applications, and also advances scientific theory. 
+Raedy Ping is a scientist who wants to know how the process of learning works: how do we come to have true understanding of our world, especially things we cannot directly see (e.g., scientific phenomena, rules of mathematics)? 
+
+A psychologist with learning scientist tendencies, Raedy has studied human learning from infancy through adulthood. Her newest work is in cross-domain STEM learning and scientific reasoning skills. She collaborates with domain experts (e.g., geoscientists) and education practitioners (e.g., kindergarten teachers) to design research that has practical applications and advances scientific theory. 
