@@ -23,19 +23,29 @@ date_format = "Jan 2006"
   organization_url = "https://www.datacamp.com/"
   title = "Exploratory Data Analysis in R: Case Study"
   url = "https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study"
-  certificate_url = files/datacamp/0827ExploratoryCaseStudy.pdf
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/4d1bf2520f51761c41dbfb377429edf0d67cfbf8"
   date_start = "2019-08-27"
   date_end = ""
-  description = "Data Scientist with R Career Track"
+  description = """
+  
+  Data Scientist with R Career Track: 4 hour course
+  
+ Once you've started learning tools for data manipulation and visualization like dplyr and ggplot2, this course gives you a chance to use them in action on a real dataset. You'll explore the historical voting of the United Nations General Assembly, including analyzing differences in voting between countries, across time, and among international issues. In the process you'll gain more practice with the dplyr and ggplot2 packages, learn about the broom package for tidying model output, and experience the kind of start-to-finish exploratory analysis common in data science.
+  """
 
 [[item]]
   organization = "DataCamp"
   organization_url = "https://www.datacamp.com/"
   title = "Exploratory Data Analysis"
   url = "https://www.datacamp.com/courses/exploratory-data-analysis"
-  certificate_url = files/datacamp/0825ExploratoryDataAnalysis.pdf 
+  certificate_url = "https://www.datacamp.com/statement-of-accomplishment/course/6d40dbf7885a258f723fb19d98739816fb72e15c"
   date_start = "2019-08-25"
   date_end = ""
-  description = "Data Scientist with R Career Track"
+  description = """
+  
+  Data Scientist with R Career Track: 4 hour course
+  
+  When your dataset is represented as a table or a database, it's difficult to observe much about it beyond its size and the types of variables it contains. In this course, you'll learn how to use graphical and numerical techniques to begin uncovering the structure of your data. Which variables suggest interesting relationships? Which observations are unusual? By the end of the course, you'll be able to answer these questions and more, while generating graphics that are both insightful and beautiful.
+  """
 
 +++
