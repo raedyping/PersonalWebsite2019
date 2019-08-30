@@ -27,7 +27,7 @@ subtitle = ""
   description = "85%"
 
 [[feature]]
-  icon = "camera-retro"
+  icon = "question-circle"
   icon_pack = "fas"
   name = "Assessment + Survey"
   description = "80%"
