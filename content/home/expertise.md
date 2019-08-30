@@ -15,21 +15,38 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "brain"
+  icon_pack = "fas"
+  name = "Cognitive Psychology"
+  description = " "
   
 [[feature]]
-  icon = "chart-line"
+  icon = "running"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Embodied Cognition"
+  description = " "  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "sign-language"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Gestural Communication"
+  description = " "
 
+[[feature]]
+  icon = "baby"
+  icon_pack = "fas"
+  name = "Child Development"
+  description = " "
+  
+[[feature]]
+  icon = "puzzle-piece"
+  icon_pack = "fas"
+  name = "Spatial Reasoning"
+  description = " "
+  
+[[feature]]
+  icon = "microscope"
+  icon_pack = "fas"
+  name = "STEM Learning"
+  description = " "
 +++

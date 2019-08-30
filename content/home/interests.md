@@ -15,21 +15,38 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "fist-raised"
+  icon_pack = "fas"
+  name = "Social Justice"
+  description = "I want equal rights"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "torii-gate"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Japanese Language"
+  description = "日本語出来る"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "swimming-pool"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Swimming"
+  description = "put me in the water"
 
+[[feature]]
+  icon = "dog"
+  icon_pack = "fas"
+  name = "Muppet (my pup)"
+  description = "they're good dogs, brent"
+  
+[[feature]]
+  icon = "laugh-squint"
+  icon_pack = "fas"
+  name = "Comedy"
+  description = "tell me a joke"
+
+[[feature]]
+  icon = "tv"
+  icon_pack = "fas"
+  name = "TV Writing"
+  description = "lifelong sitcom fan"
 +++
