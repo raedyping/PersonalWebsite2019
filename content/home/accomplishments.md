@@ -19,33 +19,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com/"
+  title = "Exploratory Data Analysis in R: Case Study"
+  url = "https://www.datacamp.com/courses/exploratory-data-analysis-in-r-case-study"
+  certificate_url = files/datacamp/0827ExploratoryCaseStudy.pdf
+  date_start = "2019-08-27"
   date_end = ""
-  description = ""
+  description = "Data Scientist with R Career Track"
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
   organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  organization_url = "https://www.datacamp.com/"
+  title = "Exploratory Data Analysis"
+  url = "https://www.datacamp.com/courses/exploratory-data-analysis"
+  certificate_url = files/datacamp/0825ExploratoryDataAnalysis.pdf 
+  date_start = "2019-08-25"
+  date_end = ""
+  description = "Data Scientist with R Career Track"
 
 +++
