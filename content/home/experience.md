@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   description = """
   
   
-   * Collaborating with psychologists, neuroscientists, teachers, and domain experts on a quasi-experiment determining neural markers of conceptual change in geoscience students
+   * Collaborating with psychologists, neuroscientists, teachers, and geoscientists on a quasi-experiment determining neural markers of scientific understanding
    * Inventing methodologies to measure advanced scientific reasoning skills
-  * Text mining and analysis of interview corpora about spatial problem solving strategies
+  * Text mining and analysis of interview corpora
   """
 
 [[experience]]

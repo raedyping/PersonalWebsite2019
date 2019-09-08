@@ -20,11 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I use a combination of psychology, learning sciences, and data science to uncover truths about the process of conceptual learning.
 
-interests:
-- Psychology
-- Learning Sciences
-- Data Science
-
 education:
   courses:
   - course: PhD in Psychology
@@ -62,7 +57,7 @@ social:
   link: http://osf.io/qdywb/
 - icon: orcid
   icon_pack: ai
-  link: http://http://orcid.org/0000-0003-4196-1548/
+  link: http://orcid.org/0000-0003-4196-1548/
 
 
   
@@ -72,7 +67,12 @@ social:
 #- Researchers
 #- Visitors
 ---
+I earned my PhD from the University of Chicago Department of Psychology, where I specialized in cognitive and developmental psychology, with minor focuses in statistics and linguistics. I trained in quantitative methodologies and published papers in experimental design, randomized control trials, inferential statistics, and regression techniques. I also learned how to design and conduct research that can answer most any question about human cognition, especially in the domains of communication and learning. My work in gestural communication and embodied cognition culminated in my dissertation, which used reaction time measures to show that my motor planning system is activated when I see you gesture, and that activation is critical in how I understand what your gestures mean. 
 
-Raedy Ping is a scientist who wants to know how the process of learning works: how do we come to have true understanding of our world, especially things we cannot directly see (e.g., scientific phenomena, rules of mathematics)? 
+During my final year of PhD residence, I trained at the University of Illinois-Chicago Learning Sciences and Research Institute. I used qualitative research methodologies from the learning sciences to study how learners use their bodies to map representations onto the spatially distributed real-world environment. This interdisciplinary work prepared me for my position as the Director of Education Research for the Spatial Intelligence and Learning Center (SILC), where I built and nurtured cross-site collaborations between psychologists, learning scientists, mathematics and chemistry experts, teachers, and curriculum authors. I coordinated dozens of studies into a big-picture narrative that laid out one way to bridge the gap between research and practice. 
 
-A psychologist with learning scientist tendencies, Raedy has studied human learning from infancy through adulthood. Her newest work is in cross-domain STEM learning and scientific reasoning skills. She collaborates with domain experts (e.g., geoscientists) and education practitioners (e.g., kindergarten teachers) to design research that has practical applications and advances scientific theory. 
+Currently, I am a post-doctoral researcher at Northwestern University School of Education and Social Policy, where I am focusing again on growing my analytic skills. I use qualitative methodologies to study science reasoning skills in a longitudinal quasi-experiment, and I use quantitative methodologies and techniques associated with assessment and survey creation, text analysis, and structural equation modeling. 
+
+My pronouns are she/her/hers. 
+
+This website was made in R!
