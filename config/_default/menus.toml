@@ -19,19 +19,9 @@
   weight = 30
 
 [[main]]
-  name = "Areas of Expertise"
-  url = "#expertise"
-  weight = 40
-
-[[main]]
   name = "Publications + Certifications"
   url = "#accomplishments"
   weight = 60
-
-[[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 70
 
 #[[main]]
 #  name = "Projects"
