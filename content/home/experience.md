@@ -43,11 +43,10 @@ date_format = "Jan 2006"
   date_end = "2017-06-01"
   description = """
 
-.
-  * Carried a 4-3 load of 200-level and 300-level courses for undergraduates: Developmental Psychology, Cognitive Psychology, Lab in Developmental Psychology, Behavioral Research Methods, and Statistics for Psychology Majors
-  * Designed and executed actual psych research with my students, virtually through mTurk and live in kindergarten classrooms
-  * Taught undergraduates how to use R for exploring, plotting, and modelling data
-  
+  My responsibilities included:
+  * Designing and conducting 7+ courses annually: Developmental Psych, Cognitive Psych, Stats, Research Methods and Developmental Labs
+  * Doing actual psych research with dozens of lab students, virtually through mTurk and live in kindergarten classrooms
+  * Teaching hundreds of undergraduates how to use R for exploring, plotting, and modelling data
   """
 
 [[experience]]
@@ -59,7 +58,11 @@ date_format = "Jan 2006"
   date_end = "2014-07-01"
   description = """
   
-  I lead research teams from hypothesis through publication on a variety of projects aimed at understanding and improving young children's spatial reasoning. Projects range from naturalistic observations of how parents engage in puzzle play with boy and girl children to laboratory interventions using comparison and contrast to improve preschool children's understanding of geometric categories (i.e., triangles). The idea is that supporting all children's spatial skills as they develop will increase the diversity of the STEM workforce.
+  My responsibilities included:
+  * Leading research teams from hypothesis through publication on a variety of projects aimed at understanding and improving young children's spatial reasoning
+  * Big picture
+  * Funding
+  * Collaborating
 
   
   """
@@ -72,7 +75,8 @@ date_format = "Jan 2006"
   date_end = "2010-09-01"
   description = """
   
-  Documented Urban Education Institute and Ounce of Prevention leadership and head teachers as they embarked on a partnership to build a birth to college model of public education.
+  My responsibilties included:
+  * Documenting Urban Education Institute and Ounce of Prevention leadership and head teachers as they embarked on a partnership to build a birth to college model of public education
   
   """
   
@@ -85,10 +89,11 @@ date_format = "Jan 2006"
   date_end = "2010-09-01"
   description = """
   
+  My responsibilities included:
+  * Collaborating with textbook writers and geometricians to author a white paper about PreK to 6th grade geometry curricula
+  * Conducting a lecture series about bridging the gap between the lab and the classroom 
+  * Leading a series of Work Circles where Pre-K and Kindergarten teachers worked together with researchers to create potential math lessons 
   
-  * Collaborated with textbook writers and geometricians to author a white paper about PreK to 6th grade geometry curricula
-  * Conducted a lecture series about bridging the gap between the lab and the classroom 
-  * Lead a series of Work Circles where Pre-K and Kindergarten teachers worked together with researchers to create potential math lessons 
   """
   
   [[experience]]
@@ -100,7 +105,9 @@ date_format = "Jan 2006"
   date_end = "2009-09-01"
   description = """
   
-  I studied learning sciences approaches to studying gesture in groups of learners engaged in science inquiry. I worked with computer scientists to create embodied approaches to studying nanoscience.
+  My responsibilities included:
+  * Studying learning sciences approaches to studying gesture in groups of learners engaged in science inquiry
+  * Working with computer scientists to create embodied approaches to studying nanoscience
   
   """
 +++
