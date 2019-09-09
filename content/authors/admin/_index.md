@@ -18,19 +18,7 @@ organizations:
   url: "https://uttallabs.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I use a combination of psychology, learning sciences, and data science to uncover truths about the process of conceptual learning.
-
-education:
-  courses:
-  - course: PhD in Psychology
-    institution: University of Chicago
-    year: 2009
-  - course: MS in Psychology
-    institution: University of Chicago
-    year: 2005
-  - course: BA in Psychology + East Asian Languages and Cultures
-    institution: Indiana University, Bloomington
-    year: 2003
+bio: I am an interdisciplinary scientist who studies human behavior, communication, and learning.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
