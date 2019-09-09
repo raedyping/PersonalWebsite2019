@@ -18,36 +18,36 @@ subtitle = ""
   icon = "chart-area"
   icon_pack = "fas"
   name = "Statistics"
-  description = "90%"  
+  description = " "  
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "85%"
+  description = " "
 
 [[feature]]
   icon = "question-circle"
   icon_pack = "fas"
   name = "Assessment + Survey"
-  description = "80%"
+  description = " "
   
 [[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "Programming"
-  description = "60%"
+  description = " "
 
 [[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Public Speaking"
-  description = "95%"
+  description = " "
   
 [[feature]]
   icon = "paragraph"
   icon_pack = "fas"
   name = "Writing and Editing"
-  description = "95%"
+  description = " "
 
 +++
