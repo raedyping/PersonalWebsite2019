@@ -44,6 +44,7 @@ date_format = "Jan 2006"
   description = """
 
   My responsibilities included:
+  
   * Designing and conducting 7+ courses annually: Developmental Psych, Cognitive Psych, Stats, Research Methods and Developmental Labs
   * Doing actual psych research with dozens of lab students, virtually through mTurk and live in kindergarten classrooms
   * Teaching hundreds of undergraduates how to use R for exploring, plotting, and modelling data
@@ -59,6 +60,7 @@ date_format = "Jan 2006"
   description = """
   
   My responsibilities included:
+  
   * Leading research teams from hypothesis through publication on a variety of projects aimed at understanding and improving young children's spatial reasoning
   * Big picture
   * Funding
@@ -76,6 +78,7 @@ date_format = "Jan 2006"
   description = """
   
   My responsibilties included:
+  
   * Documenting Urban Education Institute and Ounce of Prevention leadership and head teachers as they embarked on a partnership to build a birth to college model of public education
   
   """
@@ -90,6 +93,7 @@ date_format = "Jan 2006"
   description = """
   
   My responsibilities included:
+  
   * Collaborating with textbook writers and geometricians to author a white paper about PreK to 6th grade geometry curricula
   * Conducting a lecture series about bridging the gap between the lab and the classroom 
   * Leading a series of Work Circles where Pre-K and Kindergarten teachers worked together with researchers to create potential math lessons 
@@ -106,6 +110,7 @@ date_format = "Jan 2006"
   description = """
   
   My responsibilities included:
+  
   * Studying learning sciences approaches to studying gesture in groups of learners engaged in science inquiry
   * Working with computer scientists to create embodied approaches to studying nanoscience
   
