@@ -4,18 +4,18 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "About Me"
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "Technical Skills"
-  url = "#skills"
+  name = "Employment + Education"
+  url = "#experience"
   weight = 20
 
 [[main]]
-  name = "Work Experience"
-  url = "#experience"
+  name = "Expertise + Skills"
+  url = "#skills"
   weight = 30
 
 [[main]]
@@ -24,7 +24,7 @@
   weight = 40
 
 [[main]]
-  name = "Certifications"
+  name = "Publications + Certifications"
   url = "#accomplishments"
   weight = 60
 
@@ -33,15 +33,15 @@
   url = "#publications"
   weight = 70
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 80
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 80
 
-[[main]]
-  name = "Blog"
-  url = "#posts"
-  weight = 90
+#[[main]]
+#  name = "Blog"
+#  url = "#posts"
+#  weight = 90
 
 [[main]]
   name = "Academic CV"
