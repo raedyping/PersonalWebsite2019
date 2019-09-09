@@ -25,16 +25,18 @@ date_format = "Jan 2006"
   date_start = "2017-07-01"
   date_end = ""
   description = """
+
+  My responsibilities include: 
   
-  
-   * Collaborating with psychologists, neuroscientists, teachers, and geoscientists on a quasi-experiment determining neural markers of scientific understanding
-   * Inventing methodologies to measure advanced scientific reasoning skills
+  * Collaborating with psychologists, neuroscientists, teachers, and geoscientists on a quasi-experiment seeking neural markers of conceptual understanding
+  * Inventing qualitative methodologies to investigate scientific reasoning skills
   * Text mining and analysis of interview corpora
+  * Creating a system to use gestures to infer spatial reasoning stratgies
   """
 
 [[experience]]
   title = "Full Time Instructor"
-  company = "Loyola University Chicago Department of Psychology"
+  company = "Loyola Univ Chicago Department of Psychology"
   company_url = ""
   location = "Chicago"
   date_start = "2014-08-01"
@@ -91,7 +93,7 @@ date_format = "Jan 2006"
   
   [[experience]]
   title = "Visiting Research Specialist"
-  company = "University of Illinois-Chicago Learning Sciences Research Institute"
+  company = "Univ of Illinois-Chicago Learning Sciences Research Institute"
   company_url = ""
   location = "Chicago"
   date_start = "2008-09-01"
