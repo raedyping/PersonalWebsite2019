@@ -47,7 +47,7 @@ date_format = "Jan 2006"
   
   * Designing and conducting 7+ courses annually: Developmental Psych, Cognitive Psych, Stats, Research Methods and Developmental Labs
   * Doing actual psych research with dozens of lab students, virtually through mTurk and live in kindergarten classrooms
-  * Teaching hundreds of undergraduates how to use R for exploring, plotting, and modelling data
+  * Teaching undergraduates how to use R for exploring, plotting, and modelling data
   """
 
 [[experience]]
