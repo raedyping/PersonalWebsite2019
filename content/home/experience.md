@@ -47,7 +47,7 @@ date_format = "Jan 2006"
 
   My responsibilities included:
   
-  * Designing and conducting 7+ courses annually: Developmental Psych, Cognitive Psych, Stats, Research Methods and Developmental Labs
+  * Designing and teaching undergraduate courses in Research Methods, Statistics, Developmental Psychology and Cognitive Psychology
   * Doing actual psych research with dozens of lab students, virtually through mTurk and live in kindergarten classrooms
   * Teaching undergraduates how to use R for exploring, plotting, and modelling data
   """
@@ -63,19 +63,25 @@ date_format = "Jan 2006"
   
   My responsibilities included:
   
-  * Leading a team of 5-10 full time staff to conduct dozens of studies which included logistics like budgeting and division of labor an dother management but also as a science mentor to a diverse group of junior scientists (and a lot more undergrads/ interns)
   * Building coherent and convincing big-picture narratives connecting dozens of research studies and doing big picture work to implment the strategies
   * Big picture strategizing that makes sense in practice and in theory and communicating those strategies to people at various levels of the hierarchy
+
+  * Writing and presenting to a variety of audiences, from preschoolers to punk rockers, kindergarteners to chemists, statisticians to businessmen
+  * Leading a team of 5-10 full time staff to conduct dozens of studies which included logistics like budgeting and division of labor an dother management but also as a science mentor to a diverse group of junior scientists (and a lot more undergrads/ interns)
+ 
+  
   * Funding ensuring and getting additional fundng by site visits silc was re-funded for fie more years, presenting to advisory board, nsf, and npo like CME
   * executive level work like strategizing and accountability
+
+ * Establishing and nurturing multi-site collaorations connecting across executive level through undergraduate interns a good go-between or at establishing common ground / 'translating'
   * explaining things at the right level; which makes me easy going and friendly but driven and honest. good at motivating others and empowering them to push themselves.
-  * Proposing and securing funding, collaborating to find issues between resarch and classroom
+  
   * Providing statistical advice on projects in the lab and the classroom and writing results sections in assessment development
-  * Establishing and nurturing multi-site collaorations connecting across executive level through undergraduate interns a good go-between or at establishing common ground / 'translating'
+ 
   * Representing work to public funders liek NSF and private funders from securing funding from public funders ilke NSF and private funders like CME corporate, always successful, including updating "sales" pitches and check ins to ensure satisfaction
-  * Providing statistical advice on projects in the lab and the classroom and writing results sections in assessment development
+
   * Project management to executive level planning
-  * Writing and presenting to a variety of audiences, from preschoolers to punk rockers, kindergarteners to chemists, statisticians to businessmen
+
   """
    [[experience]]
   title = "Consultant and Case Study Author"
