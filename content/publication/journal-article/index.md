@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Breaking down gesture and action in mental rotation: Understanding the components of movement that promote learning"
 authors:
 - admin
 - Robert Ford
