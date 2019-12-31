@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Evanston, IL"
   date_start = "2017-07-01"
-  date_end = ""
+  date_end = "2019-10-20"
   description = """
 
   My responsibilities include: 
