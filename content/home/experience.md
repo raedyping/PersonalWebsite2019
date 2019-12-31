@@ -26,14 +26,13 @@ date_format = "Jan 2006"
   date_end = "2019-10-20"
   description = """
 
-  My responsibilities include: 
-  
-  * Analyzing language using text mining, language processing
-  * Collaborating with psychologists, neuroscientists, teachers, and geoscientists on a longitudinal quasi-experiment seeking neural markers of conceptual understanding
-  * Text mining and analysis of interview corpora 
-  * Creating a system to use gestures to infer spatial reasoning stratgies
-  * Inventing qualitative methodologies to investigate scientific reasoning skills
-  * Expertise in human learning, thinking, and communicating
+  My responsibilities included:   
+
+  * Integrating analysis across big data sets (survey, language, fMRI) to uncover longitudinal changes
+  * Text mining and analysis of interview corpora  
+  * Quasi-experimental techniques like SEM and complex modeling
+  * Qualitative: Inventing ways to probe how students "think scientifically"; interpreting spatial reasoning processes from gestures
+
   """
 
 [[experience]]
@@ -63,24 +62,12 @@ date_format = "Jan 2006"
   
   My responsibilities included:
   
-  * Building coherent and convincing big-picture narratives connecting dozens of research studies and doing big picture work to implment the strategies
-  * Big picture strategizing that makes sense in practice and in theory and communicating those strategies to people at various levels of the hierarchy
+  * Writing and pitching grant proposals to private and public funders, resulting in millions of dollars of research support  
+  * Strategically implementing research plans guided by science--making the abstract really happen
+  * Managing a team of 5-10 full time staff: hiring, training, and budgeting for my team
+  * Ensuring accountability to funders and other stakeholders
 
-  * Writing and presenting to a variety of audiences, from preschoolers to punk rockers, kindergarteners to chemists, statisticians to businessmen
-  * Leading a team of 5-10 full time staff to conduct dozens of studies which included logistics like budgeting and division of labor an dother management but also as a science mentor to a diverse group of junior scientists (and a lot more undergrads/ interns)
- 
-  
-  * Funding ensuring and getting additional fundng by site visits silc was re-funded for fie more years, presenting to advisory board, nsf, and npo like CME
-  * executive level work like strategizing and accountability
-
- * Establishing and nurturing multi-site collaorations connecting across executive level through undergraduate interns a good go-between or at establishing common ground / 'translating'
-  * explaining things at the right level; which makes me easy going and friendly but driven and honest. good at motivating others and empowering them to push themselves.
-  
-  * Providing statistical advice on projects in the lab and the classroom and writing results sections in assessment development
- 
-  * Representing work to public funders liek NSF and private funders from securing funding from public funders ilke NSF and private funders like CME corporate, always successful, including updating "sales" pitches and check ins to ensure satisfaction
-
-  * Project management to executive level planning
+"""
 
   """
    [[experience]]
