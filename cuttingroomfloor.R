@@ -18,7 +18,7 @@ BUT ! The most amazing thing has happened. During the most recent revision, my c
 Before I did this process, I had the wrong idea about what “preprint” means. I had assumed it is for a paper that we would traditionally call “in press”. Actually, though, a “preprint” is any version of the paper that hasn’t yet been refereed (or is in that process). “In press” or “accepted” papers are referred to as “postprints”.
 
 Here’s how it works:
-
+aa
 First, I had to start an OSF account (here is my currently-empty profile), which involved getting an ORC ID. I recommend ORC, because it is a unique identifier for an author…. like a doi for people. Here’s mine! OSF and ORC ID setup is a one time thing.
 
 I don’t understand how to utilize either yet, but I’ll figure that out later.
