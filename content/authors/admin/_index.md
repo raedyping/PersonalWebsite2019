@@ -13,9 +13,9 @@ superuser: true
 role: Scientist
 
 # Organizations/Affiliations
-organizations:
-- name: Northwestern University
-  url: "https://uttallabs.northwestern.edu/"
+#organizations:
+#- name: Northwestern University
+#  url: "https://uttallabs.northwestern.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an interdisciplinary scientist who studies human behavior, communication, and learning.
@@ -55,11 +55,8 @@ social:
 #- Researchers
 #- Visitors
 ---
-I earned my PhD from the University of Chicago Department of Psychology, where I specialized in cognitive and developmental psychology, with minor focuses in statistics and linguistics. I trained in quantitative methodologies and published papers in experimental design, randomized control trials, inferential statistics, and regression techniques. I also learned how to design and conduct research that can answer most any question about human cognition, especially in the domains of communication and learning. My work in gestural communication and embodied cognition culminated in my dissertation, which used reaction time measures to show that my motor planning system is activated when I see you gesture, and that activation is critical in how I understand what your gestures mean. 
 
-During my final year of PhD residence, I trained at the University of Illinois-Chicago Learning Sciences and Research Institute. I used qualitative research methodologies from the learning sciences to study how learners use their bodies to map representations onto the spatially distributed real-world environment. This interdisciplinary work prepared me for my position as the Director of Education Research for the Spatial Intelligence and Learning Center (SILC), where I built and nurtured cross-site collaborations between psychologists, learning scientists, mathematics and chemistry experts, teachers, and curriculum authors. I coordinated dozens of studies into a big-picture narrative that laid out one way to bridge the gap between research and practice. 
-
-Currently, I am a post-doctoral researcher at Northwestern University School of Education and Social Policy, where I am focusing again on growing my analytic skills. I use qualitative methodologies to study science reasoning skills in a longitudinal quasi-experiment, and I use quantitative methodologies and techniques associated with assessment and survey creation, text analysis, and structural equation modeling. 
+I earned my PhD in Psychology from the University of Chicago in 2009. After post-doctoral training in Learning Sciences and in Data Science, I combined my qualitative and quantitative experiences to become a research consultant. I am particularly interested in learning, science, and social justice. I am a first-generation college graduate.
 
 My pronouns are she/her/hers. 
 
