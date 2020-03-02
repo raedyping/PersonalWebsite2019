@@ -69,7 +69,6 @@ date_format = "Jan 2006"
 
 """
 
-  """
    [[experience]]
   title = "Consultant and Case Study Author"
   company = "Urban Education Institute + Ounce of Prevention Fund"
