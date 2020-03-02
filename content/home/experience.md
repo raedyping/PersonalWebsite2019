@@ -97,7 +97,7 @@ date_format = "Jan 2006"
   My responsibilities included:
   
   * Conducting a lecture series about bridging the gap between research and practice by fostering reciprocal relationships respecting everyone's expertise
-    * Collaborating with textbook writers and mathematicians to author a white paper about PreK to 6th grade geometry curricula
+  * Collaborating with textbook writers and mathematicians to author a white paper about PreK to 6th grade geometry curricula
   * Leading a series of Work Circles where Pre-K and Kindergarten teachers worked together with researchers to create potential math lessons and identify further areas for research
   
   """
