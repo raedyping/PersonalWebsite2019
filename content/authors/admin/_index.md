@@ -13,9 +13,9 @@ superuser: true
 role: Scientist
 
 # Organizations/Affiliations
-#organizations:
-#- name: Northwestern University
-#  url: "https://uttallabs.northwestern.edu/"
+organizations:
+- name: NIXLA
+  url: "https://inclusiveexcellenceacademy.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am an interdisciplinary scientist who studies human behavior, communication, and learning.
