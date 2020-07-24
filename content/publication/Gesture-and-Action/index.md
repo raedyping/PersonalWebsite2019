@@ -28,7 +28,7 @@ featured: false
 links:
  - name: ""
    url: ""
-url_pdf: https://raedyping.com/files/publications/2019-Breaking-down-gesture-and-action-in-mental-rotation.pdf
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -66,5 +66,3 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% alert note %}}
 Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
