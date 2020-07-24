@@ -1,7 +1,7 @@
 ---
 title: "Breaking down gesture and action in mental rotation: Understanding the components of movement that promote learning"
-#authors:
-#- admin
+authors:
+- admin
 date: "2020-07-27T00:00:00Z"
 doi: "http://dx.doi.org/10.1037/dev0000697"
 
