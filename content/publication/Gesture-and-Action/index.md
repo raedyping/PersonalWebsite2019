@@ -16,21 +16,10 @@ publication_types: ["3"]
 publication: "Unpacking the gestures of chemistry learners: What the hands tell us about individuals’ understanding of stereochemistry"
 publication_short: "Unpacking the gestures of chemistry learners"
 
-abstract: When learners explain answers to tasks they have yet to master, they often gesture. In a pretest-posttest design, we show that these gestures provide insight into what learners know about a
-chemistry task, and whether they are ready to make gains on that task. Adults, naïve to organic
-chemistry, drew stereoisomers of molecules and explained their drawings. All participants
-gestured spontaneously during explanations, and often expressed strategies only in gesture (and
-not in speech). In some cases, these strategies conveyed information that was explanatorily
-relevant to the problem; in other cases, they conveyed information that was explanatorily
-irrelevant. Relevant strategies produced only in gesture on the pretest, and no other types of
-pretest strategies, predicted posttest performance. This finding supports the hypothesis that
-information conveyed uniquely in gesture and not in speech indicates readiness-to-learn, but
-advances the argument: Gesture-speech mismatch predicts learning not because it reflects
-general upheaval in learners, but because it reveals explanatorily relevant implicit knowledge
-that promotes change. 
+abstract: When learners explain answers to tasks they have yet to master, they often gesture. In a pretest-posttest design, we show that these gestures provide insight into what learners know about a chemistry task, and whether they are ready to make gains on that task. Adults, naïve to organic chemistry, drew stereoisomers of molecules and explained their drawings. All participants gestured spontaneously during explanations, and often expressed strategies only in gesture (and not in speech). In some cases, these strategies conveyed information that was explanatorily relevant to the problem; in other cases, they conveyed information that was explanatorily irrelevant. Relevant strategies produced only in gesture on the pretest, and no other types of pretest strategies, predicted posttest performance. This finding supports the hypothesis that information conveyed uniquely in gesture and not in speech indicates readiness-to-learn, but advances the argument: Gesture-speech mismatch predicts learning not because it reflects general upheaval in learners, but because it reveals explanatorily relevant implicit knowledge that promotes change. 
 
 # Summary. An optional shortened abstract.
-summary: Your students are trying to tell you something with their hands. 
+summary: Your students' hands are trying to tell them something. 
 
 tags:
 - Source Themes
