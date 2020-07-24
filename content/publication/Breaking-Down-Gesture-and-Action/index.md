@@ -27,7 +27,7 @@ tags:
 - Source Themes
 featured: false
 
-# links:
+links:
 # - name: ""
 #   url: ""
 url_pdf: http://
