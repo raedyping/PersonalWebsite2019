@@ -1,9 +1,9 @@
 ---
 title: "Breaking down gesture and action in mental rotation: Understanding the components of movement that promote learning"
-authors:
-- admin
-date: "2015-09-01T00:00:00Z"
-doi: ""
+#authors:
+#- admin
+#date: "2015-09-01T00:00:00Z"
+#doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -30,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: http://
 url_code: ''
 url_dataset: ''
 url_poster: ''
