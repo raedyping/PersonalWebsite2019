@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
-authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+title: "Breaking Down Gesture and Action in Mental Rotation: Understanding the Components of Movement That Promote Learning"
+authors: "Wakefield et al"
+#- admin
+#date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,10 +15,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Breaking Down Gesture and Action in Mental Rotation: Understanding the Components of Movement That Promote Learning"
+publication_short: "Breaking Down Gesture and Action"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Past research has shown that children’s mental rotation skills are malleable and can be improved through action experience—physically rotating objects—or gesture experience—showing how objects could rotate (e.g., Frick, Ferrara, & Newcombe, 2013; Goldin-Meadow et al., 2012; Levine, Goldin-Meadow, Carlson, & Hemani-Lopez, 2018). These two types of movements both involve rotation, but differ on a number of components. Here, we break down action and gesture into components—feeling an object during rotation, using a grasping handshape during rotation, tracing the trajectory of rotation, and seeing the outcome of rotation—and ask, in two studies, how training children on a mental rotation task through different combinations of these components impacts learning gains across a delay. Our results extend the literature by showing that, although all children benefit from training experiences, some training experiences are more beneficial than others, and the pattern differs by sex. Not seeing the outcome of rotation emerged as a crucial training component for both males and females. However, not seeing the outcome turned out to be the only necessary component for males (who showed equivalent gains when imagining or gesturing object rotation). Females, in contrast, only benefitted from not seeing the outcome when it involved producing a relevant motor movement (i.e., when gesturing the rotation of the object and not simply imagining the rotation of the object). Results are discussed in relation to potential mechanisms driving these effects and practical implications.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
