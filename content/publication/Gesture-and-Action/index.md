@@ -1,5 +1,5 @@
 ---
-title: "Breaking down gesture and action in mental rotation: Understanding the components of movement that promote learning"
+title: "Unpacking the gestures of chemistry learners: What the hands tell us about individuals’ understanding of stereochemistry"
 authors:
 - admin
 
@@ -10,16 +10,27 @@ authors:
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Breaking down gesture and action in mental rotation: Understanding the components of movement that promote learning"
-publication_short: "Breaking down gesture and action in mental rotation"
+publication: "Unpacking the gestures of chemistry learners: What the hands tell us about individuals’ understanding of stereochemistry"
+publication_short: "Unpacking the gestures of chemistry learners"
 
-abstract: Past research has shown that children’s mental rotation skills are malleable and can be improved through action experience—physically rotating objects—or gesture experience—showing how objects could rotate (e.g., Frick, Ferrara, & Newcombe, 2013; Goldin-Meadow et al., 2012; Levine, Goldin-Meadow, Carlson, & Hemani-Lopez, 2018). These two types of movements both involve rotation, but differ on a number of components. Here, we break down action and gesture into components—feeling an object during rotation, using a grasping handshape during rotation, tracing the trajectory of rotation, and seeing the outcome of rotation—and ask, in two studies, how training children on a mental rotation task through different combinations of these components impacts learning gains across a delay. Our results extend the literature by showing that, although all children benefit from training experiences, some training experiences are more beneficial than others, and the pattern differs by sex. Not seeing the outcome of rotation emerged as a crucial training component for both males and females. However, not seeing the outcome turned out to be the only necessary component for males (who showed equivalent gains when imagining or gesturing object rotation). Females, in contrast, only benefitted from not seeing the outcome when it involved producing a relevant motor movement (i.e., when gesturing the rotation of the object and not simply imagining the rotation of the object). Results are discussed in relation to potential mechanisms driving these effects and practical implications.
+abstract: When learners explain answers to tasks they have yet to master, they often gesture. In a pretest-posttest design, we show that these gestures provide insight into what learners know about a
+chemistry task, and whether they are ready to make gains on that task. Adults, naïve to organic
+chemistry, drew stereoisomers of molecules and explained their drawings. All participants
+gestured spontaneously during explanations, and often expressed strategies only in gesture (and
+not in speech). In some cases, these strategies conveyed information that was explanatorily
+relevant to the problem; in other cases, they conveyed information that was explanatorily
+irrelevant. Relevant strategies produced only in gesture on the pretest, and no other types of
+pretest strategies, predicted posttest performance. This finding supports the hypothesis that
+information conveyed uniquely in gesture and not in speech indicates readiness-to-learn, but
+advances the argument: Gesture-speech mismatch predicts learning not because it reflects
+general upheaval in learners, but because it reveals explanatorily relevant implicit knowledge
+that promotes change. 
 
 # Summary. An optional shortened abstract.
-summary: When preschool aged girls gesture about rotation, they get better at it. 
+summary: Your students are trying to tell you something with their hands. 
 
 tags:
 - Source Themes
